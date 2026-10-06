@@ -41,3 +41,5 @@ while continue_bidding:
     if should_continue == 'no':
         continue_bidding = False
         find_highest_bidder(bids)
+    elif should_continue == 'yes':
+        print('\n'*20)
