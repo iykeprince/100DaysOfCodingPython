@@ -5,6 +5,11 @@
     "other": "on"
   },
   "editor.suggestOnTriggerCharacters": false,
+  "[python]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
   "github.copilot.enable": {
     "*": false
   }
